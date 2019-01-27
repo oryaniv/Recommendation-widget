@@ -1,0 +1,59 @@
+ body{
+     overflow: hidden;
+}
+
+#article-list{
+    list-style: none;
+}
+
+
+.thumbnail{
+    background: transparent no-repeat center center;
+    background-size: cover;
+    display: inline-block;
+    margin-left: 0;
+    margin-right: 0;
+    width:100%;
+} 
+
+#anchor{
+    position:fixed;
+    bottom:0;
+    width:0;
+    height:0;
+    opacity: 0;
+    /* IE!!!! */
+    filter: alpha(opacity=0);
+}
+
+#error-message{
+    color:red;
+    font-size:1em;
+}
+
+.loader {
+  border: 4px solid #fff;
+  border-right-color: transparent;
+  border-radius: 50%;
+  display: inline-block;
+  width: .5em;
+  height: .5em;
+}
+
+p.lt-ie9{
+    text-align: center;  
+}
+
+.lt-ie9 .loader {
+  margin: 0 0 -2px;
+  background: url("http://i2.wp.com/www.thegreatnovelingadventure.com/wp-content/plugins/wp-polls/images/loading.gif") center center no-repeat;
+  -webkit-animation: none;
+  -moz-animation: none;
+  animation: none;
+  border: none;
+  width: 16px;
+  height: 16px;
+  transform: scale(1.5);
+  /* IE */
+  -ms-transform: scale(1.5);
+}

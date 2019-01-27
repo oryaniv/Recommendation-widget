@@ -1,0 +1,54 @@
+
+.feed-header .more-for{
+    margin-left: 1em;
+    margin-bottom: 0;
+    color: blue;
+    font-size: 3.5em;
+    font-family: almoniTzar3, Arial;
+}
+
+#article-list .list-item{
+    display: block;
+    width:95%;
+}
+
+.caption{
+    display: block;
+    font-size: 1em;
+    font-family: "Segoe UI","Segoe WP",Arial,Sans-Serif;
+    width: 95%;
+    color: black;
+    font-size: 3em;
+    font-weight: bold
+}
+
+.branding{
+    font-size:2em;
+    display: block;
+    margin-top: 10px;
+    color:gray;
+}
+
+.article-container{
+    position: relative;
+    margin-bottom:6em; 
+}
+
+.articleLine{
+    text-decoration: none;
+}
+
+.thumbnail{
+    height:32em;
+}
+
+#error-message{
+    color:red;
+    font-size:3em;
+}
+
+.lt-ie9 .loader{
+    transform: scale(3);
+  /* IE */
+  -ms-transform: scale(3);
+}

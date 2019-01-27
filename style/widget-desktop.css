@@ -1,0 +1,48 @@
+
+.feed-header .more-for{
+    margin-left: 2em;
+    color: blue;
+    font-size: 1.2em;
+    font-family: "Segoe UI", "Segoe WP", Arial, Sans-Serif;
+}
+
+#article-list .list-item{
+    display: inline-block;
+    width:40%;
+    margin-right:5%; 
+}
+
+.caption{
+    margin-top: 1em;
+    display: block;
+    font-size: 1em;
+    font-family: "Segoe UI","Segoe WP",Arial,Sans-Serif;
+    position: absolute;
+    bottom: 3em;
+    height: 25%;
+    width: 95%;
+    padding: 0.5em 0.5em 0 0.5em;
+    color: white;
+    background: linear-gradient(to top,#000 30%,transparent 100%) repeat scroll 0 0 transparent;
+    /* IE */
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#ffffff', endColorstr='#000000');
+}
+
+.branding{
+    display: inline-block;
+    font-size: 0.75em;
+    font-family: "Segoe UI","Segoe WP",Arial,Sans-Serif;
+    position: absolute;
+    right: 1.5em;
+    bottom: 5em;
+    color: gray;
+}
+
+.article-container{
+    position: relative;
+    height:20em; 
+}
+
+.thumbnail{
+    height:80%;
+}
