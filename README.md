@@ -7,6 +7,7 @@
 * download the repo, and unzip the files
 
 * in order to see the widget in action, just fire up page.html
+  (you might want to scroll down a little...)
 
 * you can change the working script in the page between recommendation.js(es6) to recommendation-transpiled.js(es5)
 
