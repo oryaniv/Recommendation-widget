@@ -8,6 +8,15 @@
         "url": "http://www.nydailynews.com/new-york/kanye-west-fan-not-singer-pleads-guilty-throwing-amp-times-square-window-article-1.1086730?outputType=amp",
         "placement": "Mobile Below Article Thumbnails - AMP",
         "target_type": "mix"
+      },
+      {
+        "heights": "(min-width:840px) 80%, (min-width:700px) 90%, (min-width:600px) 96%, (min-width:557px) 100%, (min-width:400px) 280%, (min-width:360px) 294%, 316%",
+        "publisher": "tribunedigital-network",
+        "mode": "thumbs-1r",
+        "article": "auto",
+        "url": "http://www.nydailynews.com/new-york/kanye-west-fan-not-singer-pleads-guilty-throwing-amp-times-square-window-article-1.1086730?outputType=amp",
+        "placement": "Mobile Below Article Thumbnails - AMP",
+        "target_type": "mix"
       }
     ]
 }
